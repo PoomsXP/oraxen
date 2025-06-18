@@ -1,3 +1,4 @@
+# To download the Jar, Navigate to `Actions -> Build And Create Artifacts -> Your desired build -> Artifacts -> Download`
 <h1 align="center">
   <br>
   <img src="https://oraxen.com/logo.svg" alt="oraxen.com logo" width="256">
