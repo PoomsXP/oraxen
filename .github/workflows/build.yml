@@ -29,5 +29,5 @@ jobs:
     - name: Upload artifact (JAR)
       uses: actions/upload-artifact@v4
       with:
-        name: PlotSquared
+        name: Oraxen
         path: build/libs/*.jar
